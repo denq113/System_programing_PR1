@@ -1,0 +1,10 @@
+C:\Users\denjl\source\repos\Sistem_programing\Sistem_programing\bin\Debug\Sistem_programing.exe.config
+C:\Users\denjl\source\repos\Sistem_programing\Sistem_programing\bin\Debug\Sistem_programing.exe
+C:\Users\denjl\source\repos\Sistem_programing\Sistem_programing\bin\Debug\Sistem_programing.pdb
+C:\Users\denjl\source\repos\Sistem_programing\Sistem_programing\obj\Debug\Sistem_programing.csproj.AssemblyReference.cache
+C:\Users\denjl\source\repos\Sistem_programing\Sistem_programing\obj\Debug\Sistem_programing.Form1.resources
+C:\Users\denjl\source\repos\Sistem_programing\Sistem_programing\obj\Debug\Sistem_programing.Properties.Resources.resources
+C:\Users\denjl\source\repos\Sistem_programing\Sistem_programing\obj\Debug\Sistem_programing.csproj.GenerateResource.cache
+C:\Users\denjl\source\repos\Sistem_programing\Sistem_programing\obj\Debug\Sistem_programing.csproj.CoreCompileInputs.cache
+C:\Users\denjl\source\repos\Sistem_programing\Sistem_programing\obj\Debug\Sistem_programing.exe
+C:\Users\denjl\source\repos\Sistem_programing\Sistem_programing\obj\Debug\Sistem_programing.pdb
